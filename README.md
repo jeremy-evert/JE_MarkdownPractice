@@ -21,6 +21,14 @@ public class CheckIfDigit {
 Steve is not a digit
 ```
 
+## Command Line output
+```
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\Lab>
+```
+
 ## Conclusion
 
 This was an example of markdown documentation
